@@ -2,11 +2,11 @@
     "version": 2,
     "builds": [
         {
-            "src": "api/index.js",
+            "src": "api/test/index.js",
             "use": "@now/node",
             "config": {
                 "includeFiles": [
-                    "templates/**"
+                    "src/views/**"
                 ]
             }
         }

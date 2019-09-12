@@ -10,6 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "now": "^16.2.0",
     "pug": "^2.0.4"
   }
 }
